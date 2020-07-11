@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <?php
+echo "este es un archivo alterado";
 //incluyendo el modelo:
 include "models/modelo.php";
 
