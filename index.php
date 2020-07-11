@@ -3,6 +3,7 @@
 echo "este es un archivo alterado";
 //incluyendo el modelo:
 include "models/modelo.php";
+echo "Esta es una prueba para el branch TEST";
 
 //elimino warning:
 error_reporting(E_ALL & ~E_DEPRECATED & ~E_STRICT & ~E_WARNING & ~E_NOTICE);
